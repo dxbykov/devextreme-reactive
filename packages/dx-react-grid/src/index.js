@@ -26,6 +26,9 @@ export { TableSelection } from './plugins/table-selection';
 export { RowDetailState } from './plugins/row-detail-state';
 export { TableRowDetail } from './plugins/table-row-detail';
 
+export { TreeListState } from './plugins/tree-list-state';
+export { TableTree } from './plugins/table-tree-row';
+
 export { TableGroupRow } from './plugins/table-group-row';
 export { TableHeaderRow } from './plugins/table-header-row';
 export { TableFilterRow } from './plugins/table-filter-row';

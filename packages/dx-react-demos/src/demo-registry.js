@@ -47,6 +47,11 @@ export const demos = {
       'material-ui': require('./material-ui/detail-row/detail-row-controlled').default,
     },
   },
+  'tree-list': {
+    'simple-tree-list': {
+      bootstrap3: require('./bootstrap3/tree-list/simple-tree-list').default,
+    },
+  },
   editing: {
     'edit-row': {
       bootstrap3: require('./bootstrap3/editing/edit-row').default,
